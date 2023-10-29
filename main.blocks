@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="1Q!N];$xV[i|Jms^)C%3" x="0" y="0"><statement name="HANDLER"><block type="input_set_sound_threshold" id=".~.=G#^pM.j9@=o;I(o7"><field name="sound">SoundThreshold.Loud</field><value name="value"><shadow type="math_number_minmax" id="ry{;=e_TAi/d|7I]d3vS"><mutation min="0" max="255" label="Threshold" precision="0"></mutation><field name="SLIDER">128</field></shadow></value></block></statement></block><block type="device_forever" id="x|t+U`wHpn2Jo8Tci(2j" x="523" y="-1"></block><block type="input_on_sound" id="s$Rw0$NssS52H4R{dq-Y" x="522" y="135"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="basic_show_icon" id="I^YrZ-KnN)mHYus9$-bz"><field name="i">IconNames.Square</field></block></statement></block><block type="input_on_sound" id="%#lw(1e6tR8Ex$t##zBv" x="527" y="300"><field name="sound">DetectedSound.Quiet</field><statement name="HANDLER"><block type="device_show_leds" id="s[B9sb7p^09Xlm8?Z[6)"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
